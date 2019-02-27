@@ -1,7 +1,7 @@
 '''
 author  : Chris Hamberg
 program : xfce4 Arch Linux NTFS Compatable External Drive Mount
-github  : https://github.com/morphine-html/
+github  : https://github.com/chris-hamberg/
 facebook: https://www.facebook.com/chris.hamberg.1
 
 usage:
